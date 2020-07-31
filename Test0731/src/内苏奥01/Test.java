@@ -1,10 +1,12 @@
-package ÄÚËÕ°Â01;
+package Ã„ÃšÃ‹Ã•Â°Ã‚01;
 
 public class Test {
 	public static void main(String[] args) {
 	System.out.println("HelloWorld");
 	int a=10;
-	int c=20;	
+		System.out.println(a)
+	int c=20;
+		System.out.println(c)
 	
 	}
 
